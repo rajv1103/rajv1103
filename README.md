@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @rajv1103
-- 👀 I’m interested in life...
-- 🌱 I’m currently learning DSA ...
-- 💞️ I’m looking to collaborate on webd ...
-- 😄 Pronouns: jarvey
-- ⚡ Fun fact: roasting my friends..
+# 👋 Hi there, I’m Raaj
 
-<!---
-rajv1103/rajv1103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full Stack Developer & Competitive Programming Enthusiast from India**
+---
+## 🤓 Stats & Achievements 
+-  450+ DSA problems solved
+- 🧠 Pupil @ CF  
+- 🚀 Deployed multiple scalable web apps serving thousands of users  
+---
+## 🛠️ Tools & Libraries  
+- 🧩 HTML5 🎨 CSS3 📜 JavaScript (ES6+)  
+- ⚛️ React  ⬆️ Next.js 💨 Tailwind CSS  
+- 🟢 Node.js 🚂 Express 🍃 MongoDB  
+- 🔵 Prisma ✨ TypeScript 🐙 Git  
+- 🐳 Docker ☁️ AWS  ⚡ Vercel  
+---
+## 🤖 What I’m Passionate About  
+- Writing **clean, maintainable code**  
+- Exploring **cutting-edge web tech**  
+- Solving **algorithmic challenges** & CP  
+---
+## 📫 Let’s Connect  
+- 📩 rajverma49999@gmail.com  
+
