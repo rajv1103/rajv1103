@@ -4,7 +4,6 @@
 ---
 ## 🤓 Stats & Achievements 
 -  450+ DSA problems solved
-- 🧠 Pupil @ CF  
 - 🚀 Deployed multiple scalable web apps serving thousands of users  
 ---
 ## 🛠️ Tools & Libraries  
