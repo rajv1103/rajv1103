@@ -3,7 +3,8 @@
 **Full Stack Developer & Competitive Programming Enthusiast from India**
 ---
 ## 🤓 Stats & Achievements 
--  450+ DSA problems solved
+-  3STAR @ CODECHEF
+-  PUPIL @ CODEFORCES
 - 🚀 Deployed multiple scalable web apps serving thousands of users  
 ---
 ## 🛠️ Tools & Libraries  
